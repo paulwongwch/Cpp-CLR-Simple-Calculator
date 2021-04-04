@@ -1,0 +1,3 @@
+C:\Users\paulw\source\repos\cpp_simple_calculator\cpp_simple_calculator\Debug\cpp_simple_calculator.vcxprojAssemblyReference.cache
+C:\Users\paulw\source\repos\cpp_simple_calculator\cpp_simple_calculator\Debug\cppsimplecalculator.MyForm.resources
+C:\Users\paulw\source\repos\cpp_simple_calculator\cpp_simple_calculator\Debug\cpp_simple_calculator.vcxproj.GenerateResource.cache
